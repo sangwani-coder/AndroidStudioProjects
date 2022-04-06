@@ -4,6 +4,7 @@
     <string name="last_name">Last name</string>
     <string name="email">Email</string>
     <string name="register">Register</string>
-    <string name="first_name">First name</string>
-    <string name="last_name">Last name</string>
+    <string name="f_name">First name</string>
+    <string name="l_name">Last name</string>
+    <string name="e_email">Email</string>
 </resources>
