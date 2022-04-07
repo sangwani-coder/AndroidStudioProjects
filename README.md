@@ -8,5 +8,8 @@ Android Studio version 4.1.1
 Java
 
 ## Projects:
-* **Hello, World**
-[HelloWord](./HelloWord): First project I will be working on to learn the basics of Android Studio and Java.
+* **HelloWorld**
+[HelloWord](./HelloWorld): First project I will be working on to learn the basics of Android Studio and Java.
+* **HelloWorld2 Registration Form**
+[HelloWord2](./HelloWord2): Single page interactive user registration app.
+- 
