@@ -1,4 +1,4 @@
-# HelloWorld2
+# HelloWorld2 - Registration Form
 In this project I am focusing on doing the following without help from google:
 - Creating a new android studio project.
 - Adding widgest with the design palette.
